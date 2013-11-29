@@ -11,4 +11,13 @@
 
 @import "bootstrap.less";
 
-// Add CSS Customizations to your theme here.
+
+a.list-group-item {
+                // Hover state
+                &:hover,
+                &:focus {
+                    text-decoration: none;
+                    color: @white;
+                    background-color: @list-group-hover-bg;
+              }
+            }
