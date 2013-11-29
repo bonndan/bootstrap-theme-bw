@@ -1,12 +1,12 @@
 {
-  "name": "bootstrap-theme-themestrap-sample",
+  "name": "bootstrap-theme-bw",
   "version": "0.0.1",
-  "private": true,
-  "author": "Your Name",
+  "private": false,
+  "author": "Daniel Pozzi",
   "main": "dist/bootstrap.css",
   "themestrap": {
-    "name": "Themestrap Sample",
-    "repo": "https://github.com/divshot/themestrap"
+    "name": "Bootstrap BW",
+    "repo": "https://github.com/bonndan/bootstrap-theme-bw"
   },
   "ignore": [
     "**/.*",
